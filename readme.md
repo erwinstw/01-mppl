@@ -15,8 +15,8 @@ Model waterfall dapat kita analogikan sebagai sebuah air terjun, Yang pastinya m
 * Deployment
 * Maintenace
 
-
-2. Model Spiral
+<h2>
+2. Model Spiral</h2>
 
 ![spr](img/spiral.png)
 
