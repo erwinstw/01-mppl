@@ -1,8 +1,8 @@
 # MDPLP
 # Tugas 1
 Carilah minimal 3 MPPL yang mewakili klasik maupun agile. Jelaskan secara singkat dan tuliskan pada repo tersebut.
-
-1. Model Air Terjun (Waterfall)
+<h2>
+1. Model Air Terjun (Waterfall) </h2>
 
 ![wtb](img/wtf.jpg)
 
@@ -26,14 +26,14 @@ Model yang pengerjaanya berulang tiap tahapnya. Model ini proses pengembangan pe
 * Risk Analysis
 * Eginering
 * Evaluation
-
-3. Model DevOps
+<h2>
+3. Model DevOps </h2>
 
 ![dvp](img/devops.png)
 
 model devops adalah model yang menekankan pada budaya organisasi. Yang artinya selain memperhatikan dalam tahapan pengembangan perangkat lunak juga mengedepankan kerjasama antar tim.
-
-4. Model Agile
+<h2>
+4. Model Agile </h2>
 
 ![ag](img/agile.png)
 
