@@ -17,7 +17,9 @@ Model waterfall dapat kita analogikan sebagai sebuah air terjun, Yang pastinya m
 
 
 2. Model Spiral
+
 ![spr](img/spiral.png)
+
 Model yang pengerjaanya berulang tiap tahapnya. Model ini proses pengembangan perangkat lunak berbasis resiko. Proses pengembangan dalam model Spiral , dimulai dengan sejumlah kecil persyaratan dan melewati setiap tahap pengembangan untuk rangkaian persyaratan tersebut. fase model spiral :
 
 * plannig
